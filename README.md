@@ -1,5 +1,10 @@
-# Currency exchange Spring Boot Microservice with AWS using ECS and AWS Fargate
+# Currency exchange Spring Boot Microservice with AWS Fargate
 
+-Deployment using AWS ECS (Fargate)
+-Distributed tracing using AWS X Ray
+-Containerization using Docker
+-CI/CD integration with AWS codepipeline
+-Centralized configuration using AWS SSM
 
 ## Container Images
 
